@@ -1,0 +1,15 @@
+Analysis
+
+1. There are 576 unique players of which 84% are Male.  However, the average female user has spend on 9.8% ($4.47 vs $4.07)more than the males users.  
+It may be worth targeting some more outreach to females as the data shows they spend more.
+
+2.  The age bracket shows the vast majority of players fall in the 15-29 age range with 20-24 having the most. 
+Initially I would have guessed that the player age went up so would the revenue per player, however this is not the case. 
+The age bracket with the highest revenue per user is 35-39 followed by <10, the other brackets.
+If we had more data such as time spent playing video games per week and disposable income we might be able to get more insights
+
+
+3. The top 5 players (0.87%) represent $74.96 or 3.1% of revenue.  Although the data skews toward the top player purchasers there is a still good distribution.
+
+4. The purchase price for the top 2 items ($4.61 and $4.23) is well above the the $3.05 average purchase price.  
+This shows that despite the higher cost there is still significant demand and that these items should be looked more indepth on why they are so popular 
